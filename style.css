@@ -4,7 +4,7 @@
 ===========================*/
 :root {
   --font-family: "Inter", sans-serif;
-  --primary: #155bd5;
+  --primary: #5ce1e6;
   --primary-dark: #1c3ab6;
   --primary-light: #e2f1ff;
   --accent: #00d4d7;
@@ -25,7 +25,7 @@
   --error: #e6185e;
   --error-dark: #bf1257;
   --error-light: #fce4eb;
-  --black: #1d1d1d;
+  --black: #001447;
   --dark-1: #2d2d2d;
   --dark-2: #4d4d4d;
   --dark-3: #6d6d6d;
@@ -487,7 +487,7 @@ p {
   display: flex;
   align-items: center;
   padding: 11px 16px;
-  color: var(--white);
+  color: var(--black);
   text-transform: capitalize;
   position: relative;
   border-radius: 5px;
@@ -962,7 +962,7 @@ p {
 .header-eight .header-content p {
   margin-top: 30px;
   color: var(--white);
-  opacity: 0.7;
+  opacity: 0.9;
 }
 .header-eight .button {
   margin-top: 40px;
