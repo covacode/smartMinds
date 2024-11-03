@@ -5,7 +5,7 @@
 :root {
   --font-family: "Inter", sans-serif;
   --primary: #5ce1e6;
-  --primary-dark: #1c3ab6;
+  --primary-dark: #3b9497;
   --primary-light: #e2f1ff;
   --accent: #00d4d7;
   --accent-dark: #00bac1;
@@ -1404,7 +1404,7 @@ p {
   padding-right: 8px;
 }
 .pricing-style-fourteen .table-list li i.deactive {
-  color: var(--dark-3);
+  color: var(--error);
 }
 
 
